@@ -1,0 +1,22 @@
+.brand-image {
+    max-height: 40px !important;
+    width: auto !important;
+    margin-top: -3px;
+}
+
+.login-logo img {
+    max-height: 150px !important;
+    width: auto !important;
+}
+
+/* .main-sidebar {
+    background-color: #f97316 !important;
+}
+
+.nav-sidebar > .nav-item > .nav-link {
+    color: #ffffff !important;
+}
+
+.nav-sidebar > .nav-item > .nav-link:hover {
+    background-color: #ea580c !important;
+} */
